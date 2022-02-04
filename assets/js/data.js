@@ -6,7 +6,7 @@ HomeText([
         "location": "Islamic Republic of Iran",
         "birthday": "March 1th, 1999",
         "email":"Nayebzademohade3@gmail.com",
-        "about":"I have Master degree of <strong>Artificial Intelligence</strong> in computer and electrical department at the Semnan University, and I'm doing my research underneath cover of supervisor <strong><a target='_blank' href='https://scholar.google.com/citations?user=AM9LzzgAAAAJ' title='Dr. Farzin Yaghmaie'>Dr. Farzin Yaghmaee</a></strong>.<br/> My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Image Memorability. <br /> I like working on open source projects."
+        "about":"Product design is one of my favorite works to do. extremely motivated to constantly develop my skills. I have a lot of perseverance in this skill and I have big goals in this job and i am confident in my ability"
     }
 ]);
 Links([
@@ -29,80 +29,77 @@ Links([
 ]);
 Skill([
     {
-        "title":"<strong>- Tools & Technologies</strong>",
+        "title":"<strong>- Design Tools</strong>",
     },
     {
-        "title":"PHP",
+        "title":"Figma",
     },
     {
-        "title":"Java",
+        "title":"Adobe XD",
     },
     {
-        "title":"Codeigniter",
+        "title":"Zeplin",
     },
     {
-        "title":"Laravel",
+        "title":"Miro",
     },
     {
-        "title":"Matlab",
+        "title":"Adobe Photoshop",
     },
     {
-        "title":"WordPress",
+        "title":"<strong>- Analytics Tools</strong>",
     },
     {
-        "title":"python",
+        "title":"Google Analytics",
     },
     {
-        "title":"TensorFlow",
+        "title":"Hotjar",
     },
     {
-        "title":"Linux",
+        "title":"<strong>- Design Thinking</strong>",
     },
     {
-        "title":"C & C++",
+        "title":"Empathy",
     },
     {
-        "title":"Git",
+        "title":"Define",
     },
     {
-        "title":"CSS",
+        "title":"Ideate",
     },
     {
-        "title":"HTML",
+        "title":"Prototype",
     },
     {
-        "title":"MySQL",
+        "title":"Tes",
     },
     {
-        "title":"JavaScript",
+        "title":"<strong>- UX Research</strong>",
     },
     {
-        "title":"Django",
+        "title":"Competitive Analysis",
     },
     {
-        "title":"JSON",
+        "title":"Usability Testing",
     },
     {
-        "title":"XML",
+        "title":" Task analysis & persona hypothesis",
     },
     {
-        "title":"<strong>- Industry Knowledge</strong>",
+        "title":"A/B Testing",
     },
     {
-        "title":"Machine Learning",
+        "title":"Interviewing",
     },
     {
-        "title":"Front-end Development",
+        "title":"AffinityDiagramming",
     },
     {
-        "title":"Agile Methodologies",
+        "title":"Information Architecture",
     },
     {
-        "title":"Object-Oriented Programming (OOP)",
-    },
-    {
-        "title":"Search Engine Optimization (SEO)",
-    },
+        "title":"Familliar with cSS, HTML",
+    }
 ]);
 Language([
     {
