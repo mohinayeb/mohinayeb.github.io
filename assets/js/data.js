@@ -1,7 +1,7 @@
 HomeText([
     {
         "title":"Mohadese nayebzade",
-        "name":"Mohadese nayebzade",
+        "name":"Mohadese nayebzade <br /> <small>UI/UX Designer</small>",
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
         "birthday": "March 1th, 1999",
