@@ -138,7 +138,8 @@ Experience([
 Education([
     {
         "title":"Islamic Azad universit South Tehran",
-        "grade":"Industrial enginiering",
+        "study":"Industrial Enginiering",
+        "grade":"Bachelor's degree",
         "endDate":"2017 - 2021",
     }
 ]);
@@ -151,7 +152,7 @@ Licenses([
 Hobby([
     {
         "title":"<span class='fal fa-paint-brush'></span> Painting",
-    }
+    },
     {
         "title":"<span class='fal fa-swimmer'></span> Swimming",
     },
