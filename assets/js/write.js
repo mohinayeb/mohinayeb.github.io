@@ -127,20 +127,20 @@ function Education(educationData) {
 
     }
 }
-function Licenses(licensesData) {
-    let x=Object.keys(licensesData).length;
+function Licenses(licenseData) {
+    let x=Object.keys(licenseData).length;
     if (x===0) {
-        document.getElementById("projects").remove()
+        document.getElementById("licenses").remove()
     }
     let i;
     for ( i=0 ; i < x; i++) {
         let _elementDiv = document.createElement("div");
-        _elementDiv.setAttribute("class","licensesBoxBox");
+        _elementDiv.setAttribute("class","licenseBoxBox");
         _elementDiv.setAttribute("id","license"+i);
         document.getElementById("licenses").appendChild(_elementDiv);
         document.getElementById("license"+i).innerHTML=
             "<h4 class='licenseBoxTitle'>"+licenseData[i].title+"</h4>" +
-             "<p class='licenseContent'>"+licenseData[i].des+"</p>";
+            "<p class='licenseContent'>"+licenseData[i].des+"</p>";
     }
 }
 function Hobby(hobbyData) {
@@ -161,22 +161,7 @@ function Hobby(hobbyData) {
     }
 }
 function Article(articleData) {
-    let x=Object.keys(articleData).length;
-    if (x===0) {
-        document.getElementById("articles").remove()
-    }
-    let i;
-    for ( i=0 ; i < x; i++) {
-        let _elementDiv = document.createElement("div");
-        _elementDiv.setAttribute("class","articleBoxBox");
-        _elementDiv.setAttribute("id","article"+i);
-        document.getElementById("articles").appendChild(_elementDiv);
-        document.getElementById("article"+i).innerHTML=
-            "<h4 class='articleTitle'>"+articleData[i].title+"</h4>" +
-            "<h5 class='articlesLink'><a target='_blank' href='"+articleData[i].href+"' class='articlesLink'>"+articleData[i].link+"</a></h5>" +
-            "<p class='articleContent'>"+articleData[i].des+"</p>" +
-            "<p class='articlesTimeAt'>"+articleData[i].time+" - "+articleData[i].at+"</p>";
-    }
+    return;
 }
 function Links(linksData) {
     let x=Object.keys(linksData).length;
