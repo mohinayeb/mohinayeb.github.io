@@ -127,21 +127,20 @@ function Education(educationData) {
 
     }
 }
-function Project(projectData) {
-    let x=Object.keys(projectData).length;
+function Licenses(licensesData) {
+    let x=Object.keys(licensesData).length;
     if (x===0) {
         document.getElementById("projects").remove()
     }
     let i;
     for ( i=0 ; i < x; i++) {
         let _elementDiv = document.createElement("div");
-        _elementDiv.setAttribute("class","projectBoxBox");
-        _elementDiv.setAttribute("id","project"+i);
-        document.getElementById("projects").appendChild(_elementDiv);
-        document.getElementById("project"+i).innerHTML=
-            "<h4 class='projectBoxTitle'>"+projectData[i].title+"</h4>" +
-            "<h5 class='projectBoxLink'><a class='projectBoxLink' target='_blank' href='"+projectData[i].href+"'>"+projectData[i].link+"</a></h5>" +
-            "<p class='projectContent'>"+projectData[i].des+"</p>";
+        _elementDiv.setAttribute("class","licensesBoxBox");
+        _elementDiv.setAttribute("id","license"+i);
+        document.getElementById("licenses").appendChild(_elementDiv);
+        document.getElementById("license"+i).innerHTML=
+            "<h4 class='licenseBoxTitle'>"+licenseData[i].title+"</h4>" +
+             "<p class='licenseContent'>"+licenseData[i].des+"</p>";
     }
 }
 function Hobby(hobbyData) {
