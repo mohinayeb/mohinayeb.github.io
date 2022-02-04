@@ -11,40 +11,20 @@ HomeText([
 ]);
 Links([
     {
-        "href":"https://github.com/amirshnll",
+        "href":"https://github.com/Mohinayeb",
         "icon":"fab fa-github",
     },
     {
-        "href":"https://www.slideshare.net/AmirShokri2/",
-        "icon":"fab fa-slideshare",
-    },
-    {
-        "href":"https://www.linkedin.com/in/amirshokri/",
+        "href":"https://linkedin.com/in/mohadese-nayebzade",
         "icon":"fab fa-linkedin",
     },
     {
-        "href":"https://www.youtube.com/channel/UCwoOSpsYCRpvqI0SM0PmzdA",
-        "icon":"fab fa-youtube",
+        "href":"https://www.dribbble.com/Mohadese_nayeb",
+        "icon":"fab fa-dribbble",
     },
     {
-        "href":"https://www.kaggle.com/amirshnll",
-        "icon":"fab fa-kaggle",
-    },
-    {
-        "href":"https://scholar.google.com/citations?user=VRbi9YUAAAAJ",
-        "icon":"fal fa-graduation-cap",
-    },
-    {
-        "href":"https://orcid.org/0000-0003-4014-7982",
-        "icon":"fab fa-orcid",
-    },
-    {
-        "href":"https://anchor.fm/datatalk",
-        "icon":"fas fa-podcast",
-    },
-    {
-        "href":"https://ashokri.com",
-        "icon":"fab fa-wordpress",
+        "href":"https://www.behance.net/mohinayeb",
+        "icon":"fab fa-behance",
     }
 ]);
 Skill([
