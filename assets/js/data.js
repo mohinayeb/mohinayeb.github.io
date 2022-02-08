@@ -1,7 +1,7 @@
 HomeText([
     {
         "title":"Mohadese Nayebzade",
-        "name":"Mohadese nayebzade <br /> <small>UI/UX Designer</small>",
+        "name":"Mohadese Nayebzade <br /> <small>UI/UX Designer</small>",
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
         "birthday": "March 1th, 1999",
@@ -123,7 +123,7 @@ Experience([
     {
         "title":"Freelancer UI/UX Designer",
         "at":"",
-        "des": "i improve my UX research skills and I worked on ux projects and found the problems of the product by testing, and using the affiniti Diagram, ideation, ... to solve problems. Improve the previous site map and create a beautiful and better user interface design",
+        "des": "i improve my UX research skills and I worked on UX projects and found the problems of the product by testing, and using the affiniti Diagram, ideation, ... to solve problems. Improve the previous site map and create a beautiful and better user interface design",
         "startDate":"May 22 , 2021",
         "endDate":"Pressent",
     },
