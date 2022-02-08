@@ -1,6 +1,6 @@
 HomeText([
     {
-        "title":"Mohadese nayebzade",
+        "title":"Mohadese Nayebzade",
         "name":"Mohadese nayebzade <br /> <small>UI/UX Designer</small>",
         "profilePic":"assets/img/avatar.jpg",
         "location": "Islamic Republic of Iran",
@@ -123,7 +123,7 @@ Experience([
     {
         "title":"Freelancer UI/UX Designer",
         "at":"",
-        "des": "i improve my uX research skills and I worked on ux projects and found the problems of the product by testing, and using the affiniti Diagram, ideation, ... to solve problems. Improve the previous site map and create a beautiful and better user interface design",
+        "des": "i improve my UX research skills and I worked on ux projects and found the problems of the product by testing, and using the affiniti Diagram, ideation, ... to solve problems. Improve the previous site map and create a beautiful and better user interface design",
         "startDate":"May 22 , 2021",
         "endDate":"Pressent",
     },
@@ -146,7 +146,7 @@ Education([
 Licenses([
     {
         "title":"product Design course",
-        "des":"spiral academy by hamed bidi "
+        "des":"spiral academy by Hamed Bidi "
     }
 ]);
 Hobby([
