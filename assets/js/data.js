@@ -124,7 +124,7 @@ Experience([
         "title":"UI/UX Designer",
         "at":"Bimani",
         "des": "",
-        "startDate":"Feb , 2022",
+        "startDate":"Feb , 2021",
         "endDate":"Pressent",
     },
     {
