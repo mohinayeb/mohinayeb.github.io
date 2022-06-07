@@ -122,23 +122,23 @@ interest([
 Experience([
     {
         "title":"UI/UX Designer",
-        "at":"Bimani",
-        "des": "",
-        "startDate":"Feb , 2022",
+        "at":"Bimani(bimeh markazi)",
+        "des": "Identifying design problems and devising solutions.Implementing a UX process within the company and aligning design goals with business goals. Detecting user journey and pain points and coming up with solutions to enhance the experience. Creating a design system. Designing UI elements of the application.",
+        "startDate":"Jan , 2022",
         "endDate":"Pressent",
     },
     {
         "title":"UI/UX Designer",
         "at":"Cheshme noor Company",
         "des": "I found the problems of the product by testing, and using the affiniti Diagram, ideation, ... to solve problems. Improve the previous site map and create a beautiful and better user interface design",
-        "startDate":"Oct , 2021",
-        "endDate":"Jan , 2022",
+        "startDate":"Sep , 2021",
+        "endDate":"Dec , 2021",
     },
     {
         "title":"Freelancer UI/UX Designer",
         "at":"",
         "des": "i improve my UX research skills and create a beautiful and better user interface design",
-        "startDate":"May 22 , 2021",
+        "startDate":"Mar 22 , 2021",
         "endDate":"Sep 8 , 2021",
     },
     {
