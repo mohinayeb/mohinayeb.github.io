@@ -122,7 +122,7 @@ interest([
 Experience([
     {
         "title":"UI/UX Designer",
-        "at":"Bimani(bimeh markazi)",
+        "at":"Bimani",
         "des": "Identifying design problems and devising solutions.Implementing a UX process within the company and aligning design goals with business goals. Detecting user journey and pain points and coming up with solutions to enhance the experience. Creating a design system. Designing UI elements of the application.",
         "startDate":"Jan , 2022",
         "endDate":"Pressent",
